@@ -160,7 +160,7 @@ setup () {
       })
   }
 
-  return { drawerToggled }
+  return { drawerToggled, drawerIsOpen }
 }
 ```
 
